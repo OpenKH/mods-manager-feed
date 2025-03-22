@@ -33,11 +33,8 @@
         { "repo": "Zurphing/KH1SoraKH2Outfit" },
         { "repo": "Zurphing/KH1SoraKH3Outfit" },
         { "repo": "Zurphing/KH1-Keyblades" },
-        { "repo": "Zurphing/BaseLimits" },
-        { "repo": "Zurphing/LUA_MultipleShortcutMenus" },
         { "repo": "TheNja09/DeltaruneSFX" },
         { "repo": "Mikote111/RecoloredDriveForms" },
-        { "repo": "TopazTK/RevengeMeter" },
         { "repo": "TheNja09/BlindMode" },
         { "repo": "TheNja09/CC-Abilities-and-Stats" },
         { "repo": "SpaceBoiStreams/KH2-PAIN" },
@@ -57,7 +54,6 @@
         { "repo": "Sai3rina/KeybladePack" },
         { "repo": "dallin1016/Ehrgeiz-Machina-KH2" },
         { "repo": "Sai3rina/Yuki" },
-        { "repo": "TopazTK/RealTimer" },
         { "repo": "dallin1016/Rebirth-Wing-KH2" },
         { "repo": "dallin1016/Single-Conflict-KH2" },
         { "repo": "dallin1016/Lost-in-Phantasm-KH2" },
@@ -68,7 +64,6 @@
         { "repo": "SpaceBoiStreams/KH2-Sonic-Music-Pack" },
         { "repo": "KHOmega/KH2-SteamDeckButtons" },
         { "repo": "Sai3rina/ThemeRoyalBlack" },
-        { "repo": "TopazTK/MagicFix" },
         { "repo": "Sai3rina/ThemeLostNobody" },
         { "repo": "dallin1016/Halloween-Sora-Everywhere" },
         { "repo": "RaXZerGamingZ/RoxasBTLF_Ledge" },
@@ -79,7 +74,6 @@
         { "repo": "Kite2810/Birth-by-Sleep-Keybladepack" },
         { "repo": "danimalforlife/danima64GLARE" },
         { "repo": "Sai3rina/CompanionOCs" },
-        { "repo": "LMR-C/KH2-pro-codes" },
         { "repo": "danimalforlife/Not-Like-Us" },
         { "repo": "Sai3rina/LionSoraFixPC" },
         { "repo": "RaXZerGamingZ/SephirothFF7RQuotes_2FM" }
@@ -90,8 +84,7 @@
         { "repo": "SpaceBoiStreams/KHBBS-Sonic-Music-Pack" },
         { "repo": "SuperfieldCU/ConsistentLocalizationBBS" },
         { "repo": "Mikote111/BBSOGTitleScreen" },
-        { "repo": "Saro2000/KHBBS-HGSUI" },
-        { "repo": "Happyfrozenfire/not-applicable" }
+        { "repo": "Saro2000/KHBBS-HGSUI" }
     ],
     "Recom": [
         { "repo": "SpaceBoiStreams/KHReCoM-Sonic-Music-Pack" },
