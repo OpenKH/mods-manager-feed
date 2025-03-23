@@ -1,0 +1,72 @@
+{
+  "mods": {
+    "kh1": [
+        { "repo": "GuidingHeart/KH1-Riku" },
+        { "repo": "MainMemory/KH1PCMusicRando" },
+        { "repo": "Napstio/KH1KairiMod-KairiKH1" },
+        { "repo": "Napstio/KH1KairiMod-KairiKH2" },
+        { "repo": "Napstio/KH1KairiMod-KairiKH3" },
+        { "repo": "Napstio/KH1KairiMod-KH2Voice" },
+        { "repo": "Napstio/KH1KairiMod-JapaneseVoice" },
+        { "repo": "Napstio/KH1KairiMod-GermanVoice" },
+        { "repo": "Napstio/KH1KairiMod-FrenchVoice" },
+        { "repo": "SpaceBoiStreams/KH1-Sonic-Music-Pack" }
+    ],
+    "kh2": [
+        { "repo": "camsPatience/KH2-RoxasRFScriptFix" },
+        { "repo": "camsPatience/KH2-RoxasRFProofs-Crown" },
+        { "repo": "Joe-Degler/Lion-Sora-OpenKH" },
+        { "repo": "KHOmega/KH2-SteamDeckButtons" },
+        { "repo": "Kite2810/Master-Trio" },
+        { "repo": "Kite2810/Birth-by-Sleep-Keybladepack" },
+        { "repo": "Mikote111/ChristmasSora" },
+        { "repo": "Mikote111/ChristmasSora-ALL" },
+        { "repo": "Mikote111/HDmodels" },
+        { "repo": "Mikote111/RecoloredDriveForms" },
+        { "repo": "Napstio/Playable-Olette" },
+        { "repo": "RaXZerGamingZ/RoxasBTLF_Ledge" },
+        { "repo": "RaXZerGamingZ/SephirothFF7RQuotes_2FM" },
+        { "repo": "SpaceBoiStreams/KH2-PAIN" },
+        { "repo": "SpaceBoiStreams/KH2-Thats-NUTS" },
+        { "repo": "SpaceBoiStreams/KH2-Master-Final-Swap" },
+        { "repo": "SpaceBoiStreams/KH2-Separate-OrgXIII-SpecialBoss-OSTs" },
+        { "repo": "SpaceBoiStreams/KH2-Sonic-Music-Pack" },
+        { "repo": "TheSoraHD/KH2SpanishMix" },
+        { "repo": "TheSoraHD/XemnasDeletedQuotes" },
+        { "repo": "TheSoraHD/KH2SephirothAS" },
+        { "repo": "wavingfuture/KH2-gunblade" },
+        { "repo": "wavingfuture/Yshtola-HW" },
+        { "repo": "wavingfuture/Yshtola-ARR" },
+        { "repo": "wavingfuture/Yshtola-SHB" },
+        { "repo": "wavingfuture/LR-Weapons-Standard" },
+        { "repo": "wavingfuture/LR-Weapons-Special" },
+        { "repo": "wavingfuture/FF3DS-weapons" },
+        { "repo": "wavingfuture/kh2-gunblade" },
+        { "repo": "wavingfuture/serah-voice" },
+        { "repo": "wavingfuture/egi-party" },
+        { "repo": "Zurphing/KH1Sora" },
+        { "repo": "Zurphing/KH1SoraKH2Outfit" },
+        { "repo": "Zurphing/KH1SoraKH3Outfit" },
+        { "repo": "Zurphing/KH1-Keyblades" }
+    ],
+    "bbs": [
+        { "repo": "Mikote111/VanillaUnversed" },
+        { "repo": "Mikote111/OriginalSFX" },
+        { "repo": "SpaceBoiStreams/KHBBS-Sonic-Music-Pack" }
+    ],
+    "Recom": [
+        { "repo": "EmeraldKeys/DDD-Sora" },
+        { "repo": "SpaceBoiStreams/KHReCoM-Sonic-Music-Pack" }
+    ],
+    "kh3d": [
+        { "repo": "Mikote111/2.8TitleScreen" },
+        { "repo": "Mikote111/KH2BattleQuotes" },
+        { "repo": "Mikote111/FinalFormSora" },
+        { "repo": "Mikote111/MasterFormSora" },
+        { "repo": "Mikote111/LimitFormSora" },
+        { "repo": "Mikote111/WisdomFormSora" },
+        { "repo": "Mikote111/ValorFormSora" },
+        { "repo": "SpaceBoiStreams/KHDDD-Sonic-Music-Pack" }
+    ]
+  }
+}
