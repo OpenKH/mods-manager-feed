@@ -1,6 +1,7 @@
 {
   "mods": {
     "kh1": [
+        { "repo": "EcosDelDoblaje/KHESPMIX" },
         { "repo": "GuidingHeart/KH1-Riku" },
         { "repo": "MainMemory/KH1PCMusicRando" },
         { "repo": "Napstio/KH1KairiMod-KairiKH1" },
