@@ -17,8 +17,6 @@
         { "repo": "SuperfieldCU/ConsistentLocalizationKH1" }
     ],
     "kh2": [
-        { "repo": "camsPatience/KH2-RoxasRFScriptFix" },
-        { "repo": "camsPatience/KH2-RoxasRFProofs-Crown" },
         { "repo": "dallin1016/Vicennial-Trace-Kh2" },
         { "repo": "dallin1016/Ehrgeiz-Machina-KH2" },
         { "repo": "dallin1016/Rebirth-Wing-KH2" },
@@ -101,6 +99,9 @@
         { "repo": "wavingfuture/kh2-gunblade" },
         { "repo": "wavingfuture/serah-voice" },
         { "repo": "wavingfuture/egi-party" },
+        { "repo": "wavingfuture/Keyless-Blades" },
+        { "repo": "wavingfuture/yuffie-mod" },
+        { "repo": "wavingfuture/SK-Weapons" },
         { "repo": "Zurphing/KH1Sora" },
         { "repo": "Zurphing/KH1SoraKH2Outfit" },
         { "repo": "Zurphing/KH1SoraKH3Outfit" },
