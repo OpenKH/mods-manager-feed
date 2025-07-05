@@ -1,6 +1,7 @@
 {
   "mods": {
     "kh1": [
+        { "repo": "EcosDelDoblaje/KHESPMIX" },
         { "repo": "GuidingHeart/KH1-Riku" },
         { "repo": "MainMemory/KH1PCMusicRando" },
         { "repo": "Napstio/KH1KairiMod-KairiKH1" },
@@ -10,9 +11,45 @@
         { "repo": "Napstio/KH1KairiMod-JapaneseVoice" },
         { "repo": "Napstio/KH1KairiMod-GermanVoice" },
         { "repo": "Napstio/KH1KairiMod-FrenchVoice" },
-        { "repo": "SpaceBoiStreams/KH1-Sonic-Music-Pack" }
+        { "repo": "Saro2000/KH1FM-HGSUI" },
+        { "repo": "Saro2000/KH1FM-2DWldArt" },
+        { "repo": "SpaceBoiStreams/KH1-Sonic-Music-Pack" },
+        { "repo": "SuperfieldCU/ConsistentLocalizationKH1" }
     ],
     "kh2": [
+        { "repo": "dallin1016/Vicennial-Trace-Kh2" },
+        { "repo": "dallin1016/Ehrgeiz-Machina-KH2" },
+        { "repo": "dallin1016/Rebirth-Wing-KH2" },
+        { "repo": "dallin1016/Single-Conflict-KH2" },
+        { "repo": "dallin1016/Lost-in-Phantasm-KH2" },
+        { "repo": "dallin1016/Luminous-Void-KH2" },
+        { "repo": "dallin1016/Materia-Orb-Spell-Icons" },
+        { "repo": "dallin1016/Luminous-Heart-KH2" },
+        { "repo": "dallin1016/Halloween-Sora-Everywhere" },
+        { "repo": "dallin1016/KupoBurst-Moogle" },
+        { "repo": "dallin1016/Scream-Resonance-KH2" },
+        { "repo": "dallin1016/Soul-Resonance-KH2" },
+        { "repo": "dallin1016/STTONKS" },
+        { "repo": "dallin1016/Master-PTSD" },
+        { "repo": "dallin1016/BeginnerBootCamp-Keyblade" },
+        { "repo": "dallin1016/AllLimit" },
+        { "repo": "dallin1016/Lonely-Streetlight-KH2" },
+        { "repo": "dallin1016/Tallon-Hunter" },
+        { "repo": "dallin1016/ct6" },
+        { "repo": "dallin1016/ATU-Keyblade" },
+        { "repo": "dallin1016/Dream-Sentinel-KH2" },
+        { "repo": "dallin1016/Base-Sora-Everywhere" },
+        { "repo": "dallin1016/roro-proofs" },
+        { "repo": "dallin1016/Volatile-Breaker-KH2" },
+        { "repo": "dallin1016/FF-Keyblade" },
+        { "repo": "dallin1016/Nocturnal-Symphony-KH2" },
+        { "repo": "dallin1016/Xmas-Sora-Everywhere" },
+        { "repo": "dallin1016/Timeless-Sora-Everywhere" },
+        { "repo": "dallin1016/Tron-Sora-Everywhere" },
+        { "repo": "dallin1016/Halloween-Sora-Everywhere" },
+        { "repo": "danimalforlife/TR-Filter" },
+        { "repo": "danimalforlife/danima64GLARE" },
+        { "repo": "danimalforlife/Not-Like-Us" },
         { "repo": "Joe-Degler/Lion-Sora-OpenKH" },
         { "repo": "KHOmega/KH2-SteamDeckButtons" },
         { "repo": "Kite2810/Master-Trio" },
@@ -24,12 +61,33 @@
         { "repo": "Napstio/Playable-Olette" },
         { "repo": "RaXZerGamingZ/RoxasBTLF_Ledge" },
         { "repo": "RaXZerGamingZ/SephirothFF7RQuotes_2FM" },
+        { "repo": "Sai3rina/MechaDonald" },
+        { "repo": "Sai3rina/MechaGoofy" },
+        { "repo": "Sai3rina/Koishi" },
+        { "repo": "Sai3rina/Arashi" },
+        { "repo": "Sai3rina/Steve" },
+        { "repo": "Sai3rina/Alex" },
+        { "repo": "Sai3rina/Female-Voice" },
+        { "repo": "Sai3rina/SoraCap" },
+        { "repo": "Sai3rina/Vivi" },
+        { "repo": "Sai3rina/TheGoofyWoody" },
+        { "repo": "Sai3rina/KeybladePack" },
+        { "repo": "Sai3rina/Yuki" },
+        { "repo": "Sai3rina/ThemeRoyalBlack" },
+        { "repo": "Sai3rina/ThemeLostNobody" },
+        { "repo": "Sai3rina/ThemeHeartlessRealm" },
+        { "repo": "Sai3rina/CompanionOCs" },
+        { "repo": "Sai3rina/LionSoraFixPC" },
         { "repo": "SpaceBoiStreams/KH2-PAIN" },
         { "repo": "SpaceBoiStreams/KH2-Thats-NUTS" },
         { "repo": "SpaceBoiStreams/KH2-Master-Final-Swap" },
         { "repo": "SpaceBoiStreams/KH2-Separate-OrgXIII-SpecialBoss-OSTs" },
         { "repo": "SpaceBoiStreams/KH2-Sonic-Music-Pack" },
+        { "repo": "SpaceBoiStreams/KH2-Sonic-Music-Pack-GOA-Compatible" },
+        { "repo": "SuperfieldCU/ConsistentLocalizationKH2" },
         { "repo": "TheSoraHD/KH2SpanishMix" },
+        { "repo": "TheSoraHD/KH2SpanishMixEng" },
+        { "repo": "TheSoraHD/KH2SpanishMixJp" },
         { "repo": "TheSoraHD/XemnasDeletedQuotes" },
         { "repo": "TheSoraHD/KH2SephirothAS" },
         { "repo": "wavingfuture/KH2-gunblade" },
@@ -53,11 +111,15 @@
     "bbs": [
         { "repo": "Mikote111/VanillaUnversed" },
         { "repo": "Mikote111/OriginalSFX" },
-        { "repo": "SpaceBoiStreams/KHBBS-Sonic-Music-Pack" }
+        { "repo": "Saro2000/KHBBS-HGSUI" },
+        { "repo": "SpaceBoiStreams/KHBBS-Sonic-Music-Pack" },
+        { "repo": "SuperfieldCU/ConsistentLocalizationBBS" }
     ],
     "Recom": [
         { "repo": "EmeraldKeys/DDD-Sora" },
-        { "repo": "SpaceBoiStreams/KHReCoM-Sonic-Music-Pack" }
+        { "repo": "Saro2000/KHCOM-HGSUI" },
+        { "repo": "SpaceBoiStreams/KHReCoM-Sonic-Music-Pack" },
+        { "repo": "SuperfieldCU/ConsistentLocalizationRecom" }
     ],
     "kh3d": [
         { "repo": "Mikote111/2.8TitleScreen" },
@@ -67,7 +129,10 @@
         { "repo": "Mikote111/LimitFormSora" },
         { "repo": "Mikote111/WisdomFormSora" },
         { "repo": "Mikote111/ValorFormSora" },
-        { "repo": "SpaceBoiStreams/KHDDD-Sonic-Music-Pack" }
+        { "repo": "Saro2000/KHDDD-HGSUI" },
+        { "repo": "SpaceBoiStreams/KHDDD-Sonic-Music-Pack" },
+        { "repo": "SuperfieldCU/ConsistentLocalizationDDD" },
+        { "repo": "SuperfieldCU/FixSpiritTreatsInfoMenuText" }
     ]
   }
 }
