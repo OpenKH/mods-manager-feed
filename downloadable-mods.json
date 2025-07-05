@@ -13,8 +13,6 @@
         { "repo": "SpaceBoiStreams/KH1-Sonic-Music-Pack" }
     ],
     "kh2": [
-        { "repo": "camsPatience/KH2-RoxasRFScriptFix" },
-        { "repo": "camsPatience/KH2-RoxasRFProofs-Crown" },
         { "repo": "Joe-Degler/Lion-Sora-OpenKH" },
         { "repo": "KHOmega/KH2-SteamDeckButtons" },
         { "repo": "Kite2810/Master-Trio" },
