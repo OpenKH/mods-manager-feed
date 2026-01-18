@@ -274,7 +274,9 @@
         { "repo": "Zurphing/KH1SoraKH3Outfit" },
         { "repo": "Zurphing/KH1-Keyblades" },
         { "repo": "Zurphing/SwitchButtons" },
-        { "repo": "Zurphing/ZeroOne" }
+        { "repo": "Zurphing/ZeroOne" },
+        { "repo": "BeZide93/KH2FM-Bleach-Mod-MM" },
+        { "repo": "BeZide93/KH2FM-Bleach-Mod-RF-Patch" }
     ],
     "bbs": [
         { "repo": "Mikote111/VanillaUnversed" },
