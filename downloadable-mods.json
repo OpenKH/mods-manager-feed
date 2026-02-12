@@ -15,6 +15,7 @@
         { "repo": "Saro2000/KH1FM-2DWldArt" },
         { "repo": "SpaceBoiStreams/KH1-Sonic-Music-Pack" },
         { "repo": "SuperfieldCU/ConsistentLocalizationKH1" }
+        { "repo": "danimalforlife/KH1-Invisible-Maps" },
     ],
     "kh2": [
         { "repo": "dallin1016/Vicennial-Trace-Kh2" },
@@ -47,10 +48,10 @@
         { "repo": "dallin1016/Timeless-Sora-Everywhere" },
         { "repo": "dallin1016/Tron-Sora-Everywhere" },
         { "repo": "dallin1016/Halloween-Sora-Everywhere" },
+        { "repo": "danimalforlife/DMX" },
         { "repo": "danimalforlife/FF3-Room-Transitions" },
         { "repo": "danimalforlife/Banjo-Kazooie" },
         { "repo": "danimalforlife/Nighttime-Coliseum" },
-        { "repo": "danimalforlife/That-SR3-Bat" },
         { "repo": "danimalforlife/Guitar-Hero" },
         { "repo": "danimalforlife/KACHOW" },
         { "repo": "danimalforlife/They-ll-Pay-For-This" },
