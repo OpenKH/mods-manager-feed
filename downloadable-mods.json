@@ -276,7 +276,14 @@
         { "repo": "Zurphing/SwitchButtons" },
         { "repo": "Zurphing/ZeroOne" },
         { "repo": "BeZide93/KH2FM-Bleach-Mod-MM" },
-        { "repo": "BeZide93/KH2FM-Bleach-Mod-RF-Patch" }
+        { "repo": "BeZide93/KH2FM-Bleach-Mod-RF-Patch" },
+        { "repo": "PunningLinguist/SimpleFormIcons" },
+        { "repo": "PunningLinguist/SimpleMagicIcons" },
+        { "repo": "PunningLinguist/SimpleSummonIcons" },
+        { "repo": "PunningLinguist/SimpleUnlockIcons" },
+        { "repo": "PunningLinguist/SimpleMiscIcons" },
+        { "repo": "PunningLinguist/SimpleIconsAIO" },
+        { "repo": "PunningLinguist/ReplicaKingdomKey" }
     ],
     "bbs": [
         { "repo": "Mikote111/VanillaUnversed" },
