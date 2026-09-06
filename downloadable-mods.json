@@ -306,6 +306,18 @@
         { "repo": "SuperfieldCU/ConsistentLocalizationRecom" }
     ],
     "kh3d": [
+        { "repo": "Cagaroo/KH3D-HUD-Cagaroo" },
+        { "repo": "Cagaroo/KH3D-KB-Oathkeeper" },
+        { "repo": "Cagaroo/KH3D-KB-Oblivion" },
+        { "repo": "Cagaroo/KH3D-KB-WoodenSword" },
+        { "repo": "Cagaroo/KH3D-Sora-KH2" },
+        { "repo": "Cagaroo/KH3D-Sora-Recolor-KH1" },
+        { "repo": "Cagaroo/KH3D-Riku-Aqua" },
+        { "repo": "Cagaroo/KH3D-Riku-Aqua-Extras" },
+        { "repo": "Cagaroo/KH3D-Riku-Link" },
+        { "repo": "Cagaroo/KH3D-Riku-Recolor-KH1" },
+        { "repo": "LuxMake/DiveSkip" },
+        { "repo": "LuxMake/EXPMult_DDD" },
         { "repo": "Mikote111/2.8TitleScreen" },
         { "repo": "Mikote111/KH2BattleQuotes" },
         { "repo": "Mikote111/FinalFormSora" },
@@ -315,6 +327,8 @@
         { "repo": "Mikote111/ValorFormSora" },
         { "repo": "Saro2000/KHDDD-HGSUI" },
         { "repo": "SpaceBoiStreams/KHDDD-Sonic-Music-Pack" },
+        { "repo": "solt-frfr/KHDDD-3D-Render-Removal" },
+        { "repo": "solt-frfr/KHDDD-3DS-Buttons" },
         { "repo": "SuperfieldCU/ConsistentLocalizationDDD" },
         { "repo": "SuperfieldCU/FixSpiritTreatsInfoMenuText" }
     ]
