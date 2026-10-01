@@ -24,7 +24,7 @@
         { "repo": "Zyga21/KH1FM-Kingdom-Key-D-over-Kingdom-Key" },
         { "repo": "Zyga21/KH1FM-Dream-Sword-over-Wishing-Star" },
         { "repo": "Zyga21/KH1FM-Dream-Shield-over-Three-Wishes" },
-        { "repo": "Zyga21/KH1FM-Dream-Rod-over-Fairy-Harp" },
+        { "repo": "Zyga21/KH1FM-Dream-Rod-over-Fairy-Harp" }
     ],
     "kh2": [
         { "repo": "dallin1016/Vicennial-Trace-Kh2" },
@@ -309,7 +309,7 @@
         { "repo": "PunningLinguist/SimpleUnlockIcons" },
         { "repo": "PunningLinguist/SimpleMiscIcons" },
         { "repo": "PunningLinguist/SimpleIconsAIO" },
-        { "repo": "PunningLinguist/ReplicaKingdomKey" },
+        { "repo": "PunningLinguist/ReplicaKingdomKey" }
     ],
     "bbs": [
         { "repo": "Mikote111/VanillaUnversed" },
@@ -318,13 +318,13 @@
         { "repo": "SpaceBoiStreams/KHBBS-Sonic-Music-Pack" },
         { "repo": "SuperfieldCU/ConsistentLocalizationBBS" },
         { "repo": "SuperfieldCU/AquaUncensoredBBS" },
-        { "repo": "Zyga21/AquashouldbecensoredBBS" },
+        { "repo": "Zyga21/AquashouldbecensoredBBS" }
     ],
     "Recom": [
         { "repo": "EmeraldKeys/DDD-Sora" },
         { "repo": "Saro2000/KHCOM-HGSUI" },
         { "repo": "SpaceBoiStreams/KHReCoM-Sonic-Music-Pack" },
-        { "repo": "SuperfieldCU/ConsistentLocalizationRecom" },
+        { "repo": "SuperfieldCU/ConsistentLocalizationRecom" }
     ],
     "kh3d": [
         { "repo": "Cagaroo/KH3D-HUD-Cagaroo" },
@@ -351,7 +351,7 @@
         { "repo": "solt-frfr/KHDDD-3D-Render-Removal" },
         { "repo": "solt-frfr/KHDDD-3DS-Buttons" },
         { "repo": "SuperfieldCU/ConsistentLocalizationDDD" },
-        { "repo": "SuperfieldCU/FixSpiritTreatsInfoMenuText" },
+        { "repo": "SuperfieldCU/FixSpiritTreatsInfoMenuText" }
     ]
   }
 }
