@@ -11,11 +11,20 @@
         { "repo": "Napstio/KH1KairiMod-JapaneseVoice" },
         { "repo": "Napstio/KH1KairiMod-GermanVoice" },
         { "repo": "Napstio/KH1KairiMod-FrenchVoice" },
+        { "repo": "Zyga21/Kairi-HUD-Destinys-Embrace" },
         { "repo": "Saro2000/KH1FM-HGSUI" },
         { "repo": "Saro2000/KH1FM-2DWldArt" },
         { "repo": "SpaceBoiStreams/KH1-Sonic-Music-Pack" },
         { "repo": "SuperfieldCU/ConsistentLocalizationKH1" },
         { "repo": "danimalforlife/KH1-Invisible-Maps" }
+        { "repo": "Zyga21/KH1FM-Endgame-Keyblade-Rebalance" },
+        { "repo": "Zyga21/KH1FM-Wooden-Sword-over-Divine-Rose" },
+        { "repo": "Zyga21/KH1FM-The-Key-to-People-s-Hearts-over-Divine-Rose" },
+        { "repo": "Zyga21/KH1FM-Soul-Eater-over-Metal-Chocobo" },
+        { "repo": "Zyga21/KH1FM-Kingdom-Key-D-over-Kingdom-Key" },
+        { "repo": "Zyga21/KH1FM-Dream-Sword-over-Wishing-Star" },
+        { "repo": "Zyga21/KH1FM-Dream-Shield-over-Three-Wishes" },
+        { "repo": "Zyga21/KH1FM-Dream-Rod-over-Fairy-Harp" },
     ],
     "kh2": [
         { "repo": "dallin1016/Vicennial-Trace-Kh2" },
@@ -308,6 +317,8 @@
         { "repo": "Saro2000/KHBBS-HGSUI" },
         { "repo": "SpaceBoiStreams/KHBBS-Sonic-Music-Pack" },
         { "repo": "SuperfieldCU/ConsistentLocalizationBBS" }
+        { "repo": "SuperfieldCU/AquaUncensoredBBS" }
+        { "repo": "Zyga21/AquashouldbecensoredBBS" }
     ],
     "Recom": [
         { "repo": "EmeraldKeys/DDD-Sora" },
